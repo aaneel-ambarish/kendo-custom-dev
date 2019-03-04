@@ -1,10 +1,10 @@
 {
-  "name": "kendo-custom",
+  "name": "kendo-custom-dev",
    "version": "2019.0.1",
   "authors": [
-    "nirmal bhagwani <nirmal4designing@gmail.com>"
+    "ambarish parsania <ambarish.parsania@aaneel.com>"
   ],
-  "description": "custom kendo",
+  "description": "custom kendo dev",
   "main": "kendo-custom.js",
   "keywords": [
     "custom",
